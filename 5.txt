@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding some content to 5th file from terminal.
+=======
+Adding some content to 5th file from the UI
+>>>>>>> 7bfa10513e185339866018ebb383107b7a755f25
